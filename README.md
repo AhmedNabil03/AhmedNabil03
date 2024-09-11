@@ -52,10 +52,10 @@
 - Analyzed pizza sales data using SQL to identify sales trends, customer preferences, and operational efficiencies.
 
 ### 🏠 Nashville Housing Analysis
-- Performed sales analysis for the Nashville market using SQL, providing insights into sales performance and customer behavior.
+- Performed housing analysis for the Nashville market using SQL, providing insights into sales performance and customer behavior.
 
 ### 🌍 COVID-19 Analysis
-- Investigated the impact of COVID-19 on sales using SQL, highlighting changes in sales patterns and recovery trends.
+- Investigated the impact of COVID-19 on various metrics using SQL, highlighting changes and trends during the pandemic.
 
 ### 💻 Laptop Price Prediction
 - Developed a predictive model to estimate laptop prices using regression analysis, enhancing understanding of pricing factors.
@@ -69,17 +69,14 @@
 ### 📧 Spam Filter Project
 - Built a spam classification model to filter unwanted messages, utilizing advanced text preprocessing and machine learning algorithms.
 
-
 ## 🎓 Education
 
 ### 🎓 National Telecommunication Institute (NTI)  
-**July 2024 - (In Progress)**  
-**Data Analysis**
+**Data Analysis**  
 
 ### 🎓 Menoufia University  
-**Sep 2019 - Jan 2024**  
 **Bachelor of Electrical and Computer Engineering**  
-GPA: 3.33/4 (Very Good)
+**GPA: 3.33/4 (Very Good)**
 
 ## 📜 Certifications
 
