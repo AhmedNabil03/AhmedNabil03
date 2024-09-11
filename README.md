@@ -34,40 +34,40 @@
 ## 🛠️ Projects
 
 ### 📊 Superstore Sales Analysis
-- Developed a comprehensive dashboard to analyze sales data, identifying key trends and performance metrics across various dimensions.
+Developed a comprehensive dashboard to analyze sales data, identifying key trends and performance metrics across various dimensions.
 
 ### 🚗 Road Casualties Dashboard
-- Created an interactive dashboard to visualize road casualty data, uncovering patterns and insights to enhance safety measures.
+Created an interactive dashboard to visualize road casualty data, uncovering patterns and insights to enhance safety measures.
 
 ### 🏞️ Adventure Works Sales Dashboard
-- Designed a detailed dashboard for Adventure Works sales data, incorporating various metrics to track performance and trends.
+Designed a detailed dashboard for Adventure Works sales data, incorporating various metrics to track performance and trends.
 
 ### 📱 Social Media Analytics
-- Conducted an in-depth analysis of social media data, presenting insights through an interactive Power BI dashboard to optimize content strategies.
+Conducted an in-depth analysis of social media data, presenting insights through an interactive Power BI dashboard to optimize content strategies.
 
 ### 📈 HR Data Analysis Dashboard
-- Built a Tableau dashboard to analyze HR data, focusing on key metrics and trends to support data-driven decision-making.
+Built a Tableau dashboard to analyze HR data, focusing on key metrics and trends to support data-driven decision-making.
 
 ### 🍕 Pizza Sales Analysis
-- Analyzed pizza sales data using SQL to identify sales trends, customer preferences, and operational efficiencies.
+Analyzed pizza sales data using SQL to identify sales trends, customer preferences, and operational efficiencies.
 
 ### 🏠 Nashville Housing Analysis
-- Performed housing analysis for the Nashville market using SQL, providing insights into sales performance and customer behavior.
+Performed housing analysis for the Nashville market using SQL, providing insights into sales performance and customer behavior.
 
 ### 🌍 COVID-19 Analysis
-- Investigated the impact of COVID-19 on various metrics using SQL, highlighting changes and trends during the pandemic.
+Investigated the impact of COVID-19 on various metrics using SQL, highlighting changes and trends during the pandemic.
 
 ### 💻 Laptop Price Prediction
-- Developed a predictive model to estimate laptop prices using regression analysis, enhancing understanding of pricing factors.
+Developed a predictive model to estimate laptop prices using regression analysis, enhancing understanding of pricing factors.
 
 ### 🏡 Boston Housing Price Prediction
-- Applied regression models to predict housing prices in Boston, incorporating various factors to improve accuracy.
+Applied regression models to predict housing prices in Boston, incorporating various factors to improve accuracy.
 
 ### 📰 Sports News Classifier
-- Created a machine learning model to classify sports news articles into categories, achieving high accuracy with NLP techniques.
+Created a machine learning model to classify sports news articles into categories, achieving high accuracy with NLP techniques.
 
 ### 📧 Spam Filter Project
-- Built a spam classification model to filter unwanted messages, utilizing advanced text preprocessing and machine learning algorithms.
+Built a spam classification model to filter unwanted messages, utilizing advanced text preprocessing and machine learning algorithms.
 
 ## 🎓 Education
 
