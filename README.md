@@ -28,62 +28,62 @@
 
 ### 🏢 Interngrow (Internship)  
 **Feb 2024 - March 2024**  
-- **📊 Sales Data Analysis**: Cleaned and analyzed sales data, visualized findings with Tableau dashboards.
-- **📉 Social Media Analytics**: Conducted statistical analysis and created visualizations with Python, developed an interactive dashboard using PowerBI.
+- **📊 Sales Data Analysis**: Cleaned and analyzed sales data, and visualized findings with Tableau dashboards.
+- **📉 Social Media Analytics**: Conducted statistical analysis, created visualizations with Python, and developed an interactive dashboard using PowerBI.
 
 ## 🛠️ Projects
 
-### 📊 Superstore Sales Analysis
-Developed a comprehensive dashboard to analyze sales data, identifying key trends and performance metrics across various dimensions.
+#### 📊 Superstore Sales Analysis
+- Developed a comprehensive dashboard to analyze sales data, identifying key trends and performance metrics across various dimensions.
 
-### 🚗 Road Casualties Dashboard
-Created an interactive dashboard to visualize road casualty data, uncovering patterns and insights to enhance safety measures.
+#### 🚗 Road Casualties Dashboard
+- Created an interactive dashboard to visualize road casualty data, uncovering patterns and insights to enhance safety measures.
 
-### 🏞️ Adventure Works Sales Dashboard
-Designed a detailed dashboard for Adventure Works sales data, incorporating various metrics to track performance and trends.
+#### 🏞️ Adventure Works Sales Dashboard
+- Designed a detailed dashboard for Adventure Works sales data, incorporating various metrics to track performance and trends.
 
-### 📱 Social Media Analytics
-Conducted an in-depth analysis of social media data, presenting insights through an interactive Power BI dashboard to optimize content strategies.
+#### 📱 Social Media Analytics
+- Conducted an in-depth analysis of social media data, presenting insights through an interactive Power BI dashboard to optimize content strategies.
 
-### 📈 HR Data Analysis Dashboard
-Built a Tableau dashboard to analyze HR data, focusing on key metrics and trends to support data-driven decision-making.
+#### 📈 HR Data Analysis Dashboard
+- Built a Tableau dashboard to analyze HR data, focusing on key metrics and trends to support data-driven decision-making.
 
-### 🍕 Pizza Sales Analysis
-Analyzed pizza sales data using SQL to identify sales trends, customer preferences, and operational efficiencies.
+#### 🍕 Pizza Sales Analysis
+- Analyzed pizza sales data using SQL to identify sales trends, customer preferences, and operational efficiencies.
 
-### 🏠 Nashville Housing Analysis
-Performed housing analysis for the Nashville market using SQL, providing insights into sales performance and customer behavior.
+#### 🏠 Nashville Housing Analysis
+- Performed housing analysis for the Nashville market using SQL, providing insights into sales performance and customer behavior.
 
-### 🌍 COVID-19 Analysis
-Investigated the impact of COVID-19 on various metrics using SQL, highlighting changes and trends during the pandemic.
+#### 🌍 COVID-19 Analysis
+- Investigated the impact of COVID-19 on various metrics using SQL, highlighting changes and trends during the pandemic.
 
-### 💻 Laptop Price Prediction
-Developed a predictive model to estimate laptop prices using regression analysis, enhancing understanding of pricing factors.
+#### 💻 Laptop Price Prediction
+- Developed a predictive model to estimate laptop prices using regression analysis, enhancing understanding of pricing factors.
 
-### 🏡 Boston Housing Price Prediction
-Applied regression models to predict housing prices in Boston, incorporating various factors to improve accuracy.
+#### 🏡 Boston Housing Price Prediction
+- Applied regression models to predict housing prices in Boston, incorporating various factors to improve accuracy.
 
-### 📰 Sports News Classifier
-Created a machine learning model to classify sports news articles into categories, achieving high accuracy with NLP techniques.
+#### 📰 Sports News Classifier
+- Created a machine learning model to classify sports news articles into categories, achieving high accuracy with NLP techniques.
 
-### 📧 Spam Filter Project
-Built a spam classification model to filter unwanted messages, utilizing advanced text preprocessing and machine learning algorithms.
+#### 📧 Spam Filter Project
+- Built a spam classification model to filter unwanted messages, utilizing advanced text preprocessing and machine learning algorithms.
 
 ## 🎓 Education
 
-### 🎓 National Telecommunication Institute (NTI)  
-**Data Analysis**  
+### 🎓 National Telecommunication Institute (NTI)
+- **Data Analysis**  
 
-### 🎓 Menoufia University  
-**Bachelor of Electrical and Computer Engineering**  
+### 🎓 Menoufia University
+- **Bachelor of Electrical and Computer Engineering**  
 **GPA: 3.33/4 (Very Good)**
 
 ## 📜 Certifications
 
-### 🎓 **Alx Africa**
+#### 💼 **Alx Africa**
 - **AI Career Essentials**
 
-### 🎓 **IBM**
+#### 💼 **IBM**
 - **AI Engineering Specialization (6 Courses)**
 - **Data Analysis with Python**
 - **Data Visualization with Python**
@@ -92,11 +92,11 @@ Built a spam classification model to filter unwanted messages, utilizing advance
 - **Python Project for Data Engineering**
 - **Introduction to Data Engineering**
 
-### 🎓 **DeepLearning.AI**
+#### 💼 **DeepLearning.AI**
 - **Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization**
 - **Neural Networks and Deep Learning**
 
-### 🎓 **365 Data Science**
+#### 💼 **365 Data Science**
 - **Introduction to Excel**
 - **Machine Learning with Ridge and Lasso Regression**
 - **Machine Learning with Decision Trees and Random Forests**
