@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Ahmed Nabil Khairy!
 
-Welcome to my GitHub profile! I'm a Data Analyst and Machine Learning enthusiast with a knack for leveraging data to drive insights and decisions. With expertise in Python, SQL, and a variety of data visualization tools, I’m passionate about turning complex data into actionable strategies.
+## **Data Analyst & Machine Learning Engineer**
+
+Welcome to my GitHub profile! I specialize in extracting actionable insights from data and building predictive models. With a strong foundation in Python, SQL, and data visualization, I leverage my skills to solve complex problems and drive strategic decisions. My experience spans across various projects where I’ve applied machine learning techniques and data analysis to deliver impactful results.
 
 ---
 
